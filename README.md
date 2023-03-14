@@ -1,8 +1,8 @@
 ## GitHub Stats / Top Languages
 
 <div style="margin:0; padding:0">
-    <img alt="GitHub Stats Card" height="150px" src="https://github-readme-stats.vercel.app/api?username=0Naoki&count_private=true&show_icons=true&theme=codeSTACKr" />
-    <img alt="Top Languages Card" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Naoki&layout=compact&langs_count=6&count_private=true&show_icons=true&theme=codeSTACKr" />
+    <img alt="GitHub Stats Card" height="150px" src="https://github-readme-stats.vercel.app/api?username=0Naoki&count_private=true&show_icons=true&theme=radical" />
+    <img alt="Top Languages Card" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Naoki&layout=compact&langs_count=6&count_private=true&show_icons=true&theme=radical" />
 </div>
 
 ## Summary / GitHub Streak
@@ -21,6 +21,7 @@
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </div>
 
 ### Languages
